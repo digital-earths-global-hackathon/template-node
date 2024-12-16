@@ -1,6 +1,6 @@
 ---
 title: "Travel support"
-weight: 3
+weight: 2
 header_menu: true
 header_menu_title: "Travel support"
 navigation_menu_title: "Travel support"
@@ -9,4 +9,4 @@ navigation_menu_title: "Travel support"
 ---
 
 
-The organizers are exploring options to offer travel support specifically for early-career researchers to encourage their participation in the Hamburg Node of the Digital Earths Global Hackathon. If your ability to participate depends on receiving travel assistance, please visit the [current registration page]([#](https://events.mpimet.mpg.de/event/86/)) and fill out the relevant section to indicate your need. 
+The organizers are exploring options to offer travel support specifically for early-career researchers to encourage their participation in the Hamburg Node of the Digital Earths Global Hackathon. If your ability to participate depends on receiving travel assistance, please visit the [current registration page]([#](http://localhost:1313/global-hackathon-template/)) and fill out the relevant section to indicate your need.
