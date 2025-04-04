@@ -1,4 +1,4 @@
-baseURL = "https://nextgems.pages.gwdg.de/global-hackathon-template/"
+baseURL = "https://digital-earths-global-hackathon.github.io/template-node/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -42,7 +42,7 @@ title = "Global km-scale Hackathon | TEMPLATE"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "c  nextGES project office"
+    copyright = " "
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don't :-)
@@ -52,4 +52,4 @@ title = "Global km-scale Hackathon | TEMPLATE"
     invertSectionColors = false
 
     [params.meta]
-        keywords = "template, WCRP, ESMO, hackathon, Digital Earths Global Hackathon, km-scale modelling, climate hackathon"
+        keywords = "WCRP, ESMO, hackathon, Digital Earths Global Hackathon, km-scale modelling, climate hackathon"
