@@ -9,6 +9,6 @@ header_menu: true
 
 Participation fees will include: xx, xx, xx.  -->
 
-Registration for the Hamburg Node of the Digital Earths Global Hackathon is not yet open. A link to the registration page will be published here once it becomes available. 
+Registration for the **[Your location]** Node of the Digital Earths Global Hackathon is not yet open. A link to the registration page will be published **here** once it becomes available.
 
-In the meantime, if you're interested in participating, you can express your interest in joining this or another node of the Global Hackathon via [this page](https://events.mpimet.mpg.de/event/86/). Stay tuned for updates as the event approaches!
+In the meantime, if you're interested in participating, you can express your interest in joining this or another node of the Global Hackathon via [this page](https://events.mpimet.mpg.de/e/wcrp-global-hacking/). Stay tuned for updates as the event approaches!
